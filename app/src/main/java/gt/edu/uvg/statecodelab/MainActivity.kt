@@ -46,5 +46,5 @@ private fun WellnessScreenPreview() {
 @Preview
 @Composable
 private fun WellnessTaskItemPreview() {
-    WellnessTaskItem(taskName = "Hi", onClose = {})
+
 }
